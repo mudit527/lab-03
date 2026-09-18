@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Mudit Mathur`
-- **CCID:** `mmathur1@ualberta.ca`
+- **CCID:** `mmathur1`
 
 ## References and Resources
 
