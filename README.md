@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mudit Mathur`
+- **CCID:** `mmathur1@ualberta.ca`
 
 ## References and Resources
 
